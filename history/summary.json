@@ -96,19 +96,19 @@
     "url": "https://asiapacific.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/asiapacific.anu.edu.au.ico",
     "slug": "cap",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2248,
-    "timeDay": 3011,
-    "timeWeek": 1992,
-    "timeMonth": 2215,
-    "timeYear": 2248,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "82.92%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.62%",
+    "time": 2251,
+    "timeDay": 2683,
+    "timeWeek": 2037,
+    "timeMonth": 2219,
+    "timeYear": 2251,
     "dailyMinutesDown": {
-      "2024-12-19": 0
+      "2024-12-19": 246
     }
   },
   {
