@@ -4,28 +4,30 @@
     "url": "https://www.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.anu.edu.au.ico",
     "slug": "anu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2216,
     "timeDay": 2260,
     "timeWeek": 2152,
     "timeMonth": 2151,
     "timeYear": 2216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-21": 3
+    }
   },
   {
     "name": "Services",
     "url": "https://services.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/services.anu.edu.au.ico",
     "slug": "services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2074,
@@ -33,16 +35,18 @@
     "timeWeek": 2157,
     "timeMonth": 2086,
     "timeYear": 2074,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-21": 2
+    }
   },
   {
     "name": "Law",
     "url": "https://law.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/law.anu.edu.au.ico",
     "slug": "law",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 1617,
     "timeMonth": 1634,
     "timeYear": 1658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-21": 0
+    }
   },
   {
     "name": "Find",
@@ -97,18 +103,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/asiapacific.anu.edu.au.ico",
     "slug": "cap",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 2308,
     "timeDay": 4230,
     "timeWeek": 2897,
     "timeMonth": 2370,
     "timeYear": 2308,
     "dailyMinutesDown": {
-      "2025-01-21": 7,
       "2025-01-06": 168,
       "2024-12-19": 262
     }
