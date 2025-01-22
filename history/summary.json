@@ -4,46 +4,50 @@
     "url": "https://www.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.anu.edu.au.ico",
     "slug": "anu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2210,
     "timeDay": 1980,
     "timeWeek": 2104,
     "timeMonth": 2128,
     "timeYear": 2210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 3
+    }
   },
   {
     "name": "Services",
     "url": "https://services.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/services.anu.edu.au.ico",
     "slug": "services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2074,
     "timeDay": 2063,
     "timeWeek": 2130,
     "timeMonth": 2082,
     "timeYear": 2074,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 2
+    }
   },
   {
     "name": "Law",
     "url": "https://law.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/law.anu.edu.au.ico",
     "slug": "law",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1659,
@@ -51,17 +55,19 @@
     "timeWeek": 1651,
     "timeMonth": 1633,
     "timeYear": 1659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 2
+    }
   },
   {
     "name": "Find",
     "url": "https://find.anu.edu.au/search?q=vc",
     "icon": "https://icons.duckduckgo.com/ip3/find.anu.edu.au.ico",
     "slug": "find",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1413,
@@ -70,6 +76,7 @@
     "timeMonth": 1992,
     "timeYear": 1413,
     "dailyMinutesDown": {
+      "2025-01-22": 1,
       "2024-12-17": 21
     }
   },
@@ -96,18 +103,19 @@
     "url": "https://asiapacific.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/asiapacific.anu.edu.au.ico",
     "slug": "cap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.62%",
     "time": 2305,
-    "timeDay": 3950,
+    "timeDay": 4799,
     "timeWeek": 2871,
     "timeMonth": 2373,
     "timeYear": 2305,
     "dailyMinutesDown": {
+      "2025-01-22": 1,
       "2025-01-06": 168,
       "2024-12-19": 262
     }
@@ -117,9 +125,9 @@
     "url": "https://cecc.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/cecc.anu.edu.au.ico",
     "slug": "cecc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,7 +136,9 @@
     "timeWeek": 1876,
     "timeMonth": 1788,
     "timeYear": 1820,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-22": 0
+    }
   },
   {
     "name": "Test Broken Site",
