@@ -4,19 +4,19 @@
     "url": "https://www.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.anu.edu.au.ico",
     "slug": "anu",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 2264,
     "timeDay": 2362,
     "timeWeek": 2503,
     "timeMonth": 2301,
     "timeYear": 2264,
     "dailyMinutesDown": {
-      "2025-01-30": 12
+      "2025-01-30": 3
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://services.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/services.anu.edu.au.ico",
     "slug": "services",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2063,
     "timeDay": 2134,
     "timeWeek": 1999,
     "timeMonth": 2068,
     "timeYear": 2063,
     "dailyMinutesDown": {
-      "2025-01-30": 11
+      "2025-01-30": 2
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://law.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/law.anu.edu.au.ico",
     "slug": "law",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1676,
     "timeDay": 1746,
     "timeWeek": 1762,
     "timeMonth": 1698,
     "timeYear": 1676,
     "dailyMinutesDown": {
-      "2025-01-30": 11
+      "2025-01-30": 2
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://find.anu.edu.au/search?q=vc",
     "icon": "https://icons.duckduckgo.com/ip3/find.anu.edu.au.ico",
     "slug": "find",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 1604,
     "timeDay": 2098,
     "timeWeek": 2156,
     "timeMonth": 2180,
     "timeYear": 1604,
     "dailyMinutesDown": {
-      "2025-01-30": 10,
+      "2025-01-30": 1,
       "2024-12-17": 21
     }
   },
@@ -103,19 +103,19 @@
     "url": "https://asiapacific.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/asiapacific.anu.edu.au.ico",
     "slug": "cap",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.65%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.66%",
     "time": 2267,
     "timeDay": 1950,
     "timeWeek": 2028,
     "timeMonth": 2339,
     "timeYear": 2267,
     "dailyMinutesDown": {
-      "2025-01-30": 10,
+      "2025-01-30": 1,
       "2025-01-06": 168,
       "2024-12-19": 262
     }
@@ -125,19 +125,19 @@
     "url": "https://cecc.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/cecc.anu.edu.au.ico",
     "slug": "cecc",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1893,
     "timeDay": 2823,
     "timeWeek": 2234,
     "timeMonth": 1970,
     "timeYear": 1893,
     "dailyMinutesDown": {
-      "2025-01-30": 9
+      "2025-01-30": 0
     }
   },
   {
