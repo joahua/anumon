@@ -1,7 +1,7 @@
 url: https://find.anu.edu.au/search?q=vc
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-21T22:49:58.100Z
+status: up
+code: 200
+responseTime: 2220
+lastUpdated: 2025-03-21T22:53:42.240Z
 startTime: 2024-11-05T03:06:45.765Z
 generator: Upptime <https://github.com/upptime/upptime>
