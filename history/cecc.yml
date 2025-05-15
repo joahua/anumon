@@ -1,7 +1,7 @@
 url: https://cecc.anu.edu.au/
-status: up
-code: 200
-responseTime: 2789
-lastUpdated: 2025-05-14T23:01:02.272Z
+status: down
+code: 502
+responseTime: 10859
+lastUpdated: 2025-05-15T08:59:07.918Z
 startTime: 2024-11-05T03:06:49.322Z
 generator: Upptime <https://github.com/upptime/upptime>
