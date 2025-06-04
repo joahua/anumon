@@ -1,7 +1,7 @@
 url: https://services.anu.edu.au/
-status: up
-code: 200
-responseTime: 1288
-lastUpdated: 2025-06-03T23:01:16.197Z
+status: down
+code: 502
+responseTime: 1260
+lastUpdated: 2025-06-04T02:59:57.805Z
 startTime: 2024-11-04T04:58:18.848Z
 generator: Upptime <https://github.com/upptime/upptime>
