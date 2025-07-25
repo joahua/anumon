@@ -141,11 +141,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/find.anu.edu.au.ico",
     "slug": "find",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "98.02%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 1985,
     "timeDay": 2157,
     "timeWeek": 2032,
@@ -186,18 +186,16 @@
     "slug": "reporter",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
     "timeDay": 1144,
     "timeWeek": 550,
     "timeMonth": 567,
     "timeYear": 519,
-    "dailyMinutesDown": {
-      "2025-07-24": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CAP",
