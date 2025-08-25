@@ -11,7 +11,7 @@
     "uptimeMonth": "99.12%",
     "uptimeYear": "98.52%",
     "time": 2263,
-    "timeDay": 2391,
+    "timeDay": 2439,
     "timeWeek": 2403,
     "timeMonth": 2342,
     "timeYear": 2263,
@@ -234,11 +234,11 @@
     "url": "https://reporter.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/reporter.anu.edu.au.ico",
     "slug": "reporter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 354,
@@ -246,7 +246,7 @@
     "timeMonth": 630,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2025-08-25": 5
+      "2025-08-25": 0
     }
   },
   {
