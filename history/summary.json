@@ -71,7 +71,7 @@
     "time": 2101,
     "timeDay": 2546,
     "timeWeek": 2274,
-    "timeMonth": 2152,
+    "timeMonth": 2154,
     "timeYear": 2101,
     "dailyMinutesDown": {
       "2025-08-24": 47,
@@ -131,7 +131,7 @@
     "time": 1790,
     "timeDay": 2129,
     "timeWeek": 1905,
-    "timeMonth": 1869,
+    "timeMonth": 1873,
     "timeYear": 1790,
     "dailyMinutesDown": {
       "2025-08-23": 23,
@@ -188,7 +188,7 @@
     "time": 2031,
     "timeDay": 2621,
     "timeWeek": 2267,
-    "timeMonth": 2204,
+    "timeMonth": 2207,
     "timeYear": 2031,
     "dailyMinutesDown": {
       "2025-08-23": 23,
@@ -234,11 +234,11 @@
     "url": "https://reporter.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/reporter.anu.edu.au.ico",
     "slug": "reporter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 533,
     "timeDay": 488,
@@ -246,7 +246,7 @@
     "timeMonth": 612,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2025-08-26": 6
+      "2025-08-26": 0
     }
   },
   {
@@ -263,7 +263,7 @@
     "time": 3515,
     "timeDay": 2219,
     "timeWeek": 2067,
-    "timeMonth": 1958,
+    "timeMonth": 1962,
     "timeYear": 3515,
     "dailyMinutesDown": {
       "2025-08-23": 22,
@@ -324,7 +324,7 @@
     "time": 2609,
     "timeDay": 3248,
     "timeWeek": 2968,
-    "timeMonth": 2858,
+    "timeMonth": 2866,
     "timeYear": 2609,
     "dailyMinutesDown": {
       "2025-08-23": 22,
