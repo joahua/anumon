@@ -236,18 +236,16 @@
     "slug": "reporter",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 533,
     "timeDay": 425,
     "timeWeek": 596,
     "timeMonth": 613,
     "timeYear": 533,
-    "dailyMinutesDown": {
-      "2025-08-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CAP",
