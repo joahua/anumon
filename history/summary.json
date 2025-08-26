@@ -234,19 +234,19 @@
     "url": "https://reporter.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/reporter.anu.edu.au.ico",
     "slug": "reporter",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 488,
-    "timeWeek": 571,
-    "timeMonth": 612,
-    "timeYear": 533,
+    "time": 532,
+    "timeDay": 475,
+    "timeWeek": 559,
+    "timeMonth": 607,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2025-08-26": 0
+      "2025-08-26": 5
     }
   },
   {
