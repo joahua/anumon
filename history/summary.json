@@ -64,9 +64,9 @@
     "slug": "services",
     "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "98.48%",
     "time": 2104,
     "timeDay": 2560,
@@ -74,7 +74,7 @@
     "timeMonth": 2168,
     "timeYear": 2104,
     "dailyMinutesDown": {
-      "2025-08-27": 31,
+      "2025-08-27": 25,
       "2025-08-24": 47,
       "2025-08-23": 24,
       "2025-08-22": 43,
@@ -235,18 +235,20 @@
     "url": "https://reporter.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/reporter.anu.edu.au.ico",
     "slug": "reporter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 531,
-    "timeDay": 475,
+    "timeDay": 427,
     "timeWeek": 544,
     "timeMonth": 596,
     "timeYear": 531,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-27": 0
+    }
   },
   {
     "name": "CAP",
