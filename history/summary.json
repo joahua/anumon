@@ -76,18 +76,19 @@
     "url": "https://services.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/services.anu.edu.au.ico",
     "slug": "services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "94.85%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "94.99%",
+    "uptimeYear": "99.23%",
     "time": 2132,
     "timeDay": 1946,
     "timeWeek": 2050,
-    "timeMonth": 2197,
-    "timeYear": 2132,
+    "timeMonth": 2198,
+    "timeYear": 2133,
     "dailyMinutesDown": {
+      "2025-11-05": 0,
       "2025-11-03": 220,
       "2025-11-02": 1,
       "2025-11-01": 72,
@@ -139,8 +140,7 @@
       "2025-08-23": 24,
       "2025-08-22": 43,
       "2025-08-21": 42,
-      "2025-08-20": 17,
-      "2025-08-15": 40
+      "2025-08-20": 17
     }
   },
   {
@@ -221,7 +221,7 @@
     "timeDay": 2157,
     "timeWeek": 2206,
     "timeMonth": 2127,
-    "timeYear": 2046,
+    "timeYear": 2047,
     "dailyMinutesDown": {
       "2025-09-17": 280,
       "2025-09-16": 726,
@@ -306,7 +306,7 @@
     "timeDay": 1993,
     "timeWeek": 2374,
     "timeMonth": 2139,
-    "timeYear": 3264,
+    "timeYear": 3266,
     "dailyMinutesDown": {
       "2025-09-16": 87,
       "2025-09-03": 201,
@@ -373,7 +373,7 @@
     "timeDay": 2430,
     "timeWeek": 2577,
     "timeMonth": 2649,
-    "timeYear": 2622,
+    "timeYear": 2623,
     "dailyMinutesDown": {
       "2025-09-16": 86,
       "2025-09-03": 201,
