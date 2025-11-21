@@ -12,7 +12,7 @@
     "uptimeYear": "98.48%",
     "time": 2259,
     "timeDay": 2233,
-    "timeWeek": 2217,
+    "timeWeek": 2189,
     "timeMonth": 2195,
     "timeYear": 2260,
     "dailyMinutesDown": {
@@ -78,16 +78,16 @@
     "url": "https://services.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/services.anu.edu.au.ico",
     "slug": "services",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "97.30%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "97.29%",
     "uptimeMonth": "96.82%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 2128,
-    "timeDay": 1976,
-    "timeWeek": 2050,
-    "timeMonth": 2065,
+    "timeDay": 2063,
+    "timeWeek": 2038,
+    "timeMonth": 2066,
     "timeYear": 2129,
     "dailyMinutesDown": {
       "2025-11-21": 19,
@@ -138,8 +138,7 @@
       "2025-09-22": 60,
       "2025-09-21": 35,
       "2025-09-16": 88,
-      "2025-09-14": 25,
-      "2025-09-10": 17
+      "2025-09-14": 25
     }
   },
   {
@@ -155,7 +154,7 @@
     "uptimeYear": "98.39%",
     "time": 1809,
     "timeDay": 1816,
-    "timeWeek": 1753,
+    "timeWeek": 1730,
     "timeMonth": 1822,
     "timeYear": 1812,
     "dailyMinutesDown": {
@@ -219,7 +218,7 @@
     "uptimeYear": "98.41%",
     "time": 2050,
     "timeDay": 2535,
-    "timeWeek": 2142,
+    "timeWeek": 2125,
     "timeMonth": 2178,
     "timeYear": 2074,
     "dailyMinutesDown": {
@@ -276,9 +275,9 @@
     "slug": "reporter",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 504,
     "timeDay": 325,
@@ -286,7 +285,6 @@
     "timeMonth": 380,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-11-21": 11,
       "2025-10-20": 29,
       "2025-09-02": 32,
       "2025-08-28": 22,
@@ -306,7 +304,7 @@
     "uptimeYear": "97.76%",
     "time": 3214,
     "timeDay": 2053,
-    "timeWeek": 2083,
+    "timeWeek": 2069,
     "timeMonth": 2122,
     "timeYear": 3230,
     "dailyMinutesDown": {
@@ -374,7 +372,7 @@
     "uptimeYear": "98.43%",
     "time": 2620,
     "timeDay": 2700,
-    "timeWeek": 2661,
+    "timeWeek": 2635,
     "timeMonth": 2572,
     "timeYear": 2636,
     "dailyMinutesDown": {
