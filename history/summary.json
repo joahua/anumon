@@ -82,9 +82,9 @@
     "url": "https://services.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/services.anu.edu.au.ico",
     "slug": "services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "97.31%",
+    "uptimeDay": "97.28%",
     "uptimeWeek": "96.18%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "99.32%",
@@ -94,6 +94,7 @@
     "timeMonth": 2102,
     "timeYear": 2132,
     "dailyMinutesDown": {
+      "2025-12-04": 0,
       "2025-12-03": 38,
       "2025-12-02": 29,
       "2025-11-30": 70,
@@ -141,7 +142,7 @@
       "2025-10-06": 48,
       "2025-10-05": 174,
       "2025-10-04": 148,
-      "2025-10-03": 51
+      "2025-10-03": 25
     }
   },
   {
@@ -150,7 +151,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/law.anu.edu.au.ico",
     "slug": "law",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "98.90%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.88%",
@@ -215,7 +216,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/find.anu.edu.au.ico",
     "slug": "find",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.88%",
