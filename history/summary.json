@@ -84,12 +84,12 @@
     "url": "https://services.anu.edu.au/",
     "icon": "https://icons.duckduckgo.com/ip3/services.anu.edu.au.ico",
     "slug": "services",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "93.79%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "93.77%",
     "uptimeWeek": "97.08%",
     "uptimeMonth": "96.10%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 2136,
     "timeDay": 1757,
     "timeWeek": 1965,
@@ -151,7 +151,7 @@
       "2025-10-20": 55,
       "2025-10-18": 106,
       "2025-10-17": 53,
-      "2025-10-16": 107
+      "2025-10-16": 62
     }
   },
   {
