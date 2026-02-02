@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "98.87%",
-    "time": 2273,
-    "timeDay": 2166,
-    "timeWeek": 2110,
-    "timeMonth": 2345,
+    "uptimeYear": "98.90%",
+    "time": 2272,
+    "timeDay": 1973,
+    "timeWeek": 2097,
+    "timeMonth": 2357,
     "timeYear": 2274,
     "dailyMinutesDown": {
       "2026-01-25": 51,
@@ -77,8 +77,7 @@
       "2025-04-01": 59,
       "2025-03-28": 20,
       "2025-03-23": 19,
-      "2025-03-01": 36,
-      "2025-02-02": 38
+      "2025-03-01": 36
     }
   },
   {
@@ -87,15 +86,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.anu.edu.au.ico",
     "slug": "services",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "96.03%",
-    "uptimeWeek": "97.55%",
+    "uptimeWeek": "97.79%",
     "uptimeMonth": "97.56%",
     "uptimeYear": "99.27%",
     "time": 2143,
-    "timeDay": 2145,
-    "timeWeek": 1965,
-    "timeMonth": 2258,
+    "timeDay": 1948,
+    "timeWeek": 1953,
+    "timeMonth": 2267,
     "timeYear": 2149,
     "dailyMinutesDown": {
       "2026-02-01": 57,
@@ -171,12 +170,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
-    "time": 1821,
-    "timeDay": 1501,
-    "timeWeek": 1698,
-    "timeMonth": 1856,
-    "timeYear": 1838,
+    "uptimeYear": "98.84%",
+    "time": 1820,
+    "timeDay": 1549,
+    "timeWeek": 1598,
+    "timeMonth": 1853,
+    "timeYear": 1839,
     "dailyMinutesDown": {
       "2025-12-10": 80,
       "2025-12-09": 42,
@@ -222,8 +221,7 @@
       "2025-04-01": 58,
       "2025-03-28": 19,
       "2025-03-23": 18,
-      "2025-03-01": 35,
-      "2025-02-02": 37
+      "2025-03-01": 35
     }
   },
   {
@@ -236,12 +234,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
-    "time": 2060,
-    "timeDay": 2203,
-    "timeWeek": 2078,
-    "timeMonth": 2195,
-    "timeYear": 2117,
+    "uptimeYear": "98.89%",
+    "time": 2061,
+    "timeDay": 2556,
+    "timeWeek": 2145,
+    "timeMonth": 2220,
+    "timeYear": 2118,
     "dailyMinutesDown": {
       "2025-12-03": 15,
       "2025-11-16": 38,
@@ -283,8 +281,7 @@
       "2025-03-28": 19,
       "2025-03-23": 17,
       "2025-03-01": 35,
-      "2025-02-27": 28,
-      "2025-02-02": 37
+      "2025-02-27": 28
     }
   },
   {
@@ -299,10 +296,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 484,
-    "timeDay": 303,
-    "timeWeek": 380,
-    "timeMonth": 374,
-    "timeYear": 485,
+    "timeDay": 321,
+    "timeWeek": 387,
+    "timeMonth": 376,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2025-10-20": 29,
       "2025-09-02": 32,
@@ -320,12 +317,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.29%",
-    "time": 3137,
-    "timeDay": 2208,
-    "timeWeek": 2060,
-    "timeMonth": 2092,
-    "timeYear": 3243,
+    "uptimeYear": "98.32%",
+    "time": 3136,
+    "timeDay": 2215,
+    "timeWeek": 2085,
+    "timeMonth": 2113,
+    "timeYear": 3245,
     "dailyMinutesDown": {
       "2025-11-16": 38,
       "2025-09-16": 87,
@@ -370,8 +367,7 @@
       "2025-02-23": 861,
       "2025-02-22": 1385,
       "2025-02-21": 687,
-      "2025-02-16": 28,
-      "2025-02-02": 37
+      "2025-02-16": 28
     }
   },
   {
@@ -384,12 +380,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.85%",
-    "time": 2673,
-    "timeDay": 3213,
-    "timeWeek": 3245,
-    "timeMonth": 3142,
-    "timeYear": 2765,
+    "uptimeYear": "98.88%",
+    "time": 2675,
+    "timeDay": 5198,
+    "timeWeek": 3401,
+    "timeMonth": 3210,
+    "timeYear": 2770,
     "dailyMinutesDown": {
       "2026-01-30": 27,
       "2025-12-10": 81,
@@ -428,8 +424,7 @@
       "2025-04-01": 57,
       "2025-03-28": 18,
       "2025-03-23": 17,
-      "2025-03-01": 34,
-      "2025-02-02": 36
+      "2025-03-01": 34
     }
   },
   {
